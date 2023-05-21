@@ -12,8 +12,9 @@
 <div align="center">
 <img src="Diagrama.jpg" width="700px" />
 </div>
-</span>
-</span>
+</p>
+
+
 <p align="center">
 <strong>Exercícios do slide Introdução à Banco de Dados</strong><br />
  O código SQL referente a criação das tabelas se encontra neste repositorio com o nome de:<br />
