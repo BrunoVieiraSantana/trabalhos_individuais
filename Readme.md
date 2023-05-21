@@ -13,6 +13,7 @@
 <img src="Diagrama.jpg" width="700px" />
 </div>
 </p>
+</p>
 
 
 <p align="center">
