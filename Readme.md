@@ -14,8 +14,9 @@
 </div>
 
 <p align="center">
-  Exercícios do slide Introdução à Banco de Dados
-  (O código SQL referente a criação das tabelas se encontra neste repositorio com o nome de "Atividade individual 02 - SQL.py"
+<strong>Exercícios do slide Introdução à Banco de Dados</strong><br />
+ O código SQL referente a criação das tabelas se encontra neste repositorio com o nome de:<br />
+ "Atividade individual 02 - SQL.py
 </p>
 
 
