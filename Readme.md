@@ -9,6 +9,11 @@
   <strong>Criação de software de gerenciamento de Biblioteca</strong>
 </p>
 
+<div align="center">
+<img src="Biblioteca.jpg" width="700px" />
+</div>
+</p>
+
 <p align="center">
   <strong>Diagramas do slide Modelagem de Dados</strong>
 </p>
@@ -16,7 +21,6 @@
 <div align="center">
 <img src="Diagrama.jpg" width="700px" />
 </div>
-</p>
 </p>
 
 
