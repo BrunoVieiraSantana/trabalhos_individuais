@@ -14,6 +14,8 @@
 </div>
 </p>
 
+</span>
+
 <p align="center">
   <strong>Diagramas do slide Modelagem de Dados</strong>
 </p>
@@ -23,14 +25,13 @@
 </div>
 </p>
 
+</span>
 
 <p align="center">
 <strong>Exercícios do slide Introdução à Banco de Dados</strong><br />
  O código SQL referente a criação das tabelas se encontra neste repositorio com o nome de:<br />
  "Atividade individual 02 - SQL.py
 </p>
-
-
 
 </span>
 
