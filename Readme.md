@@ -6,7 +6,11 @@
 </span>
 
 <p align="center">
-  Diagramas do slide Modelagem de Dados
+  <strong>Criação de software de gerenciamento de Biblioteca</strong>
+</p>
+
+<p align="center">
+  <strong>Diagramas do slide Modelagem de Dados</strong>
 </p>
 
 <div align="center">
