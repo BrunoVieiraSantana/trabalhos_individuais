@@ -5,7 +5,7 @@
 
 </span>
 
-<p align="center">
+<span align="center">
   <strong>Criação de software de gerenciamento de Biblioteca</strong>
 </p>
 
