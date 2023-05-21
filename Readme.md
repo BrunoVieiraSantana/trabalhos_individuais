@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-<img src="diagrama.jpg" width="700px" />
+<img src="Diagrama.jpg" width="700px" />
 </div>
 
 
