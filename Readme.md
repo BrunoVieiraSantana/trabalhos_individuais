@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-<img src="Biblioteca.jpg" width="700px" />
+<img src="Biblioteca.jpg" width="300px" />
 </div>
 </p>
 
