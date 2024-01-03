@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-<img src="docs/Diagrama_final.png" width="700px" />
+<img src="Diagrama_final.png" width="700px" />
 </div>
 </p>
 
